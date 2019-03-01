@@ -2,7 +2,8 @@ body {
     margin: 0;
     /* background-color: rgb(44, 44, 44); */
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather',
+        serif;
 
 }
 
@@ -35,6 +36,11 @@ a {
     margin: 10px 20px;
     text-decoration: none;
 }
+
+a:hover {
+    color: #EAF6F6;
+}
+
 
 p {
     line-height: 2;
@@ -154,7 +160,7 @@ hr {
     -webkit-border-radius: 26;
     -moz-border-radius: 26;
     border-radius: 26px;
-    font-family: Arial;
+    font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
